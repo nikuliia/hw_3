@@ -1,0 +1,1 @@
+Print to the console numbers from 20 to 30 separated by a space using a step of 0.5 (20 20.5 21 21.5 ....)
